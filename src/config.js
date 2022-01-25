@@ -26,15 +26,42 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 50,
     layersOrder: [
-      { name: "bg" },
-      { name: "base" },
-      { name: "sunglasses" },
-      { name: "rose" },
-      { name: "necklace" },
-      { name: "earlings" },
-      { name: "pagadi" },
-      { name: "dress" },
-      { name: "bow" },
+      { name: "bg" , options: {
+        "displayName": "bg"
+      }
+     },
+      { name: "base" ,options: {
+        "displayName": "base"
+      }
+    },
+      { name: "sunglasses",  options: {
+        "displayName": "sunglasses"
+      }
+    },
+      { name: "rose",  options: {
+        "displayName": "rose"
+      }
+    },
+      { name: "necklace", options: {
+        "displayName": "necklace"
+      }
+     },
+      { name: "earlings", options: {
+        "displayName": "earlings"
+      }
+     },
+      { name: "pagadi" ,options: {
+        "displayName": "pagadi"
+      }
+    },
+      { name: "dress", options: {
+        "displayName": "dress"
+      }
+     },
+      { name: "bow" , options: {
+        "displayName": "bow"
+      }
+    },
     ],
   },
 ];
