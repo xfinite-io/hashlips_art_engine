@@ -34,7 +34,15 @@ const layerConfigurations = [
         "displayName": "base"
       }
     },
-      { name: "sunglasses",  options: {
+    { name: "dress", options: {
+      "displayName": "dress"
+    }
+   },
+   { name: "necklace", options: {
+    "displayName": "necklace"
+    }
+    },
+    { name: "sunglasses",  options: {
         "displayName": "sunglasses"
       }
     },
@@ -42,10 +50,6 @@ const layerConfigurations = [
         "displayName": "rose"
       }
     },
-      { name: "necklace", options: {
-        "displayName": "necklace"
-      }
-     },
       { name: "earlings", options: {
         "displayName": "earlings"
       }
@@ -54,10 +58,6 @@ const layerConfigurations = [
         "displayName": "pagadi"
       }
     },
-      { name: "dress", options: {
-        "displayName": "dress"
-      }
-     },
       { name: "bow" , options: {
         "displayName": "bow"
       }
