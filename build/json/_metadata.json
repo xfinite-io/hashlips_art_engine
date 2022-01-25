@@ -1,0 +1,2352 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "6f34fd400506fe268aa64cf115817ac6ba0bbf3a",
+    "edition": 1,
+    "date": 1643135826164,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "6cf6e6325e8fb3fd33d9fe016355ffe97f066d69",
+    "edition": 2,
+    "date": 1643135826345,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "c983d5ad35a2ec4351efd761d9086047d456a935",
+    "edition": 3,
+    "date": 1643135826583,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "05e5e8472d5a75fdb985db961a4a800a59576b5c",
+    "edition": 4,
+    "date": 1643135826765,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "6180b2b68966cf8941f9b70b14e99760c39fe26d",
+    "edition": 5,
+    "date": 1643135827004,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "f725cfc21ad49be923f3e75bc6a17540fb96da25",
+    "edition": 6,
+    "date": 1643135827185,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "2b6e234eb1b9f78bf79c171e90dea6ea43826894",
+    "edition": 7,
+    "date": 1643135827353,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "669f37b2ae287da0b76b82138baa5795fa2fbdc2",
+    "edition": 8,
+    "date": 1643135827590,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "d9bd0260968f0ab099d988918b13d51a2cdb14fd",
+    "edition": 9,
+    "date": 1643135827803,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "ab9906bbe97aa55cc5d4c45582eb89d37e0df7a4",
+    "edition": 10,
+    "date": 1643135827965,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "12521ce8ad59389f14e075661a36d29428bbaa0f",
+    "edition": 11,
+    "date": 1643135828136,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "690be077126ddcbfa60f31b042f5dd629f04a133",
+    "edition": 12,
+    "date": 1643135828300,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "09d3272e2dc2e1afccf576e5556d1a933b849ce3",
+    "edition": 13,
+    "date": 1643135828450,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "283e7d29ef5d4ecc6926f599c5be4421375980e5",
+    "edition": 14,
+    "date": 1643135828607,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "b54e89b7a2dfe654c202481aaea9624b24cf3c22",
+    "edition": 15,
+    "date": 1643135828836,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "632fac929f8368d2b6c22569077034f543b3d1c4",
+    "edition": 16,
+    "date": 1643135829005,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "a97106eb0ca62b60b1afb58939e0b8f84226f8b0",
+    "edition": 17,
+    "date": 1643135829218,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "4fd65a98ad3b53a1d0826b81d68b3f6a526618f6",
+    "edition": 18,
+    "date": 1643135829375,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "70cec326301f5277148012d0fa04578aca5d753a",
+    "edition": 19,
+    "date": 1643135829590,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "1e71cd566fe02fd324779f1b703379c38144c1b8",
+    "edition": 20,
+    "date": 1643135829735,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "c1e1a250025058c05870308d17a1ce2ad8f77a7d",
+    "edition": 21,
+    "date": 1643135829954,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "f9a41da528ad97484ef337cef25998ce8803c60f",
+    "edition": 22,
+    "date": 1643135830169,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "985f771317253da4260c465b52749b9b343284a9",
+    "edition": 23,
+    "date": 1643135830378,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "dc20448f98c51ca238957dae0f5e96022da893f7",
+    "edition": 24,
+    "date": 1643135830527,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "5bed77ce6a610100f529a3ddd5651ec4da574935",
+    "edition": 25,
+    "date": 1643135830741,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "963992077b48dbd8db3d2215aa2b788c20be0106",
+    "edition": 26,
+    "date": 1643135830962,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "f3a61ff0c77dbfba9ab673493ab01c04d104757c",
+    "edition": 27,
+    "date": 1643135831111,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "daa11a191683f37d1656cbf68e53f99705c35c6b",
+    "edition": 28,
+    "date": 1643135831338,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "610061a3d68c91204ae71697383c23f2aa6eb5f4",
+    "edition": 29,
+    "date": 1643135831488,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "77554a85ab96d3b82cdca962956397c8f27ebf8b",
+    "edition": 30,
+    "date": 1643135831644,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "6f581418405c814934e2759cfc56b99b5d4d6188",
+    "edition": 31,
+    "date": 1643135831853,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "176b0a2d763b9334aee72ec1d6cfa0b177c42782",
+    "edition": 32,
+    "date": 1643135832014,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "3fdd780daddeac2a21b697f43764ca0aab0940dc",
+    "edition": 33,
+    "date": 1643135832245,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "ebe1a69b3bc092fde45a77eec032cfa467cbc6e4",
+    "edition": 34,
+    "date": 1643135832410,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "0b613fb582922ad07db0a99efb90e0b5870b7fd0",
+    "edition": 35,
+    "date": 1643135832580,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "7f77f368ecde5b0939078fd09ebf33b21f1e1b03",
+    "edition": 36,
+    "date": 1643135832814,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "4f2675d6bf1456a55556c6c0179bceb889304645",
+    "edition": 37,
+    "date": 1643135832975,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "872234d44a76953a720068578b9b9b2b1f8ff844",
+    "edition": 38,
+    "date": 1643135833218,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "52d87bb032a81c0a9e0413b82a6e10fc24621ec0",
+    "edition": 39,
+    "date": 1643135833427,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "fccae21c7e12304ca0e8b38480db0fa7299569c1",
+    "edition": 40,
+    "date": 1643135833581,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #41",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "c74a64b0550bd478ae427e68a5e55adb018fbf34",
+    "edition": 41,
+    "date": 1643135833735,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #42",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "96bd46b51c2e51053e39a266e06e805318865a1a",
+    "edition": 42,
+    "date": 1643135833960,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #43",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "0434e44b7e8fb408d60d9c97c3cf80ac69b9ed4e",
+    "edition": 43,
+    "date": 1643135834194,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #44",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "024b24f8cf778dab48d39f728de8ddb0f5068c61",
+    "edition": 44,
+    "date": 1643135834356,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #45",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "24a2d4b43b743b3b7617bdee09c4956320307c43",
+    "edition": 45,
+    "date": 1643135834571,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "retro earings"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #46",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "23accaca9875f8f86a4d23abed1debeb918490d8",
+    "edition": 46,
+    "date": 1643135834791,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #47",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "afdbd506d039d50a2f92d49df6dd8d9a305c63dd",
+    "edition": 47,
+    "date": 1643135835008,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "retro necklace"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #48",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "6da56bd21a437f530d5cfddafdb85381f6f8c734",
+    "edition": 48,
+    "date": 1643135835238,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "Pagadi_sunglassess aviator"
+      },
+      {
+        "trait_type": "rose",
+        "value": "retro rose"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "retro dress"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #49",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "1616a27c79dc43a8cae341f1ff25dc6112ac06b0",
+    "edition": 49,
+    "date": 1643135835455,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "pagadi_bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #50",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "fdb5d45d1267ba960c3bcfbddf731d77b5c9792c",
+    "edition": 50,
+    "date": 1643135835609,
+    "attributes": [
+      {
+        "trait_type": "bg",
+        "value": "retro bg"
+      },
+      {
+        "trait_type": "base",
+        "value": "base character full"
+      },
+      {
+        "trait_type": "sunglasses",
+        "value": "retro sunglassess"
+      },
+      {
+        "trait_type": "rose",
+        "value": "pagadi_grass"
+      },
+      {
+        "trait_type": "necklace",
+        "value": "pagadi_gamcha"
+      },
+      {
+        "trait_type": "earlings",
+        "value": "Pagadi_bali"
+      },
+      {
+        "trait_type": "pagadi",
+        "value": "Pagadi_pagadi"
+      },
+      {
+        "trait_type": "dress",
+        "value": "pagadi_kurta"
+      },
+      {
+        "trait_type": "bow",
+        "value": "retro bow"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

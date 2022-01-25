@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #34",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "ebe1a69b3bc092fde45a77eec032cfa467cbc6e4",
+  "edition": 34,
+  "date": 1643135832410,
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "retro bg"
+    },
+    {
+      "trait_type": "base",
+      "value": "base character full"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "retro sunglassess"
+    },
+    {
+      "trait_type": "rose",
+      "value": "retro rose"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "pagadi_gamcha"
+    },
+    {
+      "trait_type": "earlings",
+      "value": "Pagadi_bali"
+    },
+    {
+      "trait_type": "pagadi",
+      "value": "Pagadi_pagadi"
+    },
+    {
+      "trait_type": "dress",
+      "value": "pagadi_kurta"
+    },
+    {
+      "trait_type": "bow",
+      "value": "retro bow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
