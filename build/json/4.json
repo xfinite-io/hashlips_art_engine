@@ -2,9 +2,9 @@
   "name": "Your Collection #4",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/4.png",
-  "dna": "05e5e8472d5a75fdb985db961a4a800a59576b5c",
+  "dna": "c76efd60f186088b145ed4f0e7465849da6a4090",
   "edition": 4,
-  "date": 1643135826765,
+  "date": 1643136570545,
   "attributes": [
     {
       "trait_type": "bg",
@@ -15,28 +15,28 @@
       "value": "base character full"
     },
     {
-      "trait_type": "sunglasses",
-      "value": "Pagadi_sunglassess aviator"
-    },
-    {
-      "trait_type": "rose",
-      "value": "pagadi_grass"
+      "trait_type": "dress",
+      "value": "retro dress"
     },
     {
       "trait_type": "necklace",
       "value": "pagadi_gamcha"
     },
     {
+      "trait_type": "sunglasses",
+      "value": "retro sunglassess"
+    },
+    {
+      "trait_type": "rose",
+      "value": "retro rose"
+    },
+    {
       "trait_type": "earlings",
-      "value": "retro earings"
+      "value": "Pagadi_bali"
     },
     {
       "trait_type": "pagadi",
       "value": "Pagadi_pagadi"
-    },
-    {
-      "trait_type": "dress",
-      "value": "pagadi_kurta"
     },
     {
       "trait_type": "bow",

@@ -2,9 +2,9 @@
   "name": "Your Collection #39",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/39.png",
-  "dna": "52d87bb032a81c0a9e0413b82a6e10fc24621ec0",
+  "dna": "8e4c101c9f4f489b5445ac54f4f4836da2cf67e2",
   "edition": 39,
-  "date": 1643135833427,
+  "date": 1643136577365,
   "attributes": [
     {
       "trait_type": "bg",
@@ -15,6 +15,14 @@
       "value": "base character full"
     },
     {
+      "trait_type": "dress",
+      "value": "pagadi_kurta"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "retro necklace"
+    },
+    {
       "trait_type": "sunglasses",
       "value": "Pagadi_sunglassess aviator"
     },
@@ -23,20 +31,12 @@
       "value": "retro rose"
     },
     {
-      "trait_type": "necklace",
-      "value": "retro necklace"
-    },
-    {
       "trait_type": "earlings",
       "value": "retro earings"
     },
     {
       "trait_type": "pagadi",
       "value": "Pagadi_pagadi"
-    },
-    {
-      "trait_type": "dress",
-      "value": "retro dress"
     },
     {
       "trait_type": "bow",
