@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "48df7ac45c5b49007e378b89c4bd0340fa2d62a3",
+    "edition": 1,
+    "date": 1643708158422,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_a"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_b"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "cde1bcc7a6ff0341fa32c7a6ed7a576338a6dc05",
+    "edition": 2,
+    "date": 1643708158595,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_b"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_b"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "4bf05b1f747c9031290776981f5e0433b8e09c74",
+    "edition": 3,
+    "date": 1643708158766,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_a"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_b"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "8f72a40d86268fb764246467ba5b561ea3c43a3d",
+    "edition": 4,
+    "date": 1643708158919,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_a"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_a"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "63f5eeb790a8e121961a0eda454cd5b3fd099870",
+    "edition": 5,
+    "date": 1643708159074,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_a"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_a"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "8b55361407fcad659f4b26e883527b5282ec7d7f",
+    "edition": 6,
+    "date": 1643708159225,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_b"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_a"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "be605f1d7d5d58accd32baf2ca6a184d4376d4b0",
+    "edition": 7,
+    "date": 1643708159370,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_b"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_a"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "1ffe373e772b70cf7a06ee4002fe593f05a9c0b0",
+    "edition": 8,
+    "date": 1643708159518,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "layer0_a"
+      },
+      {
+        "trait_type": "1_Base",
+        "value": "layer1_a"
+      },
+      {
+        "trait_type": "2_dress",
+        "value": "layer2_b"
+      },
+      {
+        "trait_type": "3_Headgear",
+        "value": "layer3_b"
+      },
+      {
+        "trait_type": "4_eyewear",
+        "value": "layer4_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
