@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #19",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "496c0e0d538c0e907294af187620e4cf835c98c0",
+  "edition": 19,
+  "date": 1643708740886,
+  "attributes": [
+    {
+      "trait_type": "0_BG",
+      "value": "Layer 0_b"
+    },
+    {
+      "trait_type": "1_Body",
+      "value": "Layer 1_a"
+    },
+    {
+      "trait_type": "2_Dress",
+      "value": "Layer 2_a"
+    },
+    {
+      "trait_type": "3_Mouthassets",
+      "value": "Layer 3_a"
+    },
+    {
+      "trait_type": "4_Head",
+      "value": "Layer 4_a"
+    },
+    {
+      "trait_type": "5_Eyewear",
+      "value": "Layer 5_b"
+    },
+    {
+      "trait_type": "6_HeadGear",
+      "value": "Layer 6_b"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

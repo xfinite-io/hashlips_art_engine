@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "db818d0e7222bceed2add5a5b256adf83afee84b",
+    "edition": 1,
+    "date": 1643708737627,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "0013b92b3c15bc5e7c710cbc33a71ae8e67e0090",
+    "edition": 2,
+    "date": 1643708737790,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "1b92bb1a399783b6b86e08e630f45c620b0ea30c",
+    "edition": 3,
+    "date": 1643708738020,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "3a9b58e1f09657025c2de3986aa05c2d772809d9",
+    "edition": 4,
+    "date": 1643708738239,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "cc6ce36ad5ac5d72f85d314aa0ae5d030c0cd7a2",
+    "edition": 5,
+    "date": 1643708738471,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "95f7247ddb381faf06cdaf776f093ba841ddede7",
+    "edition": 6,
+    "date": 1643708738685,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "dbd3fe38cf42860af7b9b902c8f1f6e6fa4a53b1",
+    "edition": 7,
+    "date": 1643708738850,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "ce0c3a8c32e5dbe19c9628767c135defbb36507e",
+    "edition": 8,
+    "date": 1643708739075,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "cd7a0027808ccb4112db3c05438f09143b073a03",
+    "edition": 9,
+    "date": 1643708739214,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "7d40b99f33356cb4a2d611f135675bb11f4d236a",
+    "edition": 10,
+    "date": 1643708739425,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "554cb3cffad10120b52184f8c171efcb826904d7",
+    "edition": 11,
+    "date": 1643708739560,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "8e16a921a841a564d368908759d38170e18e191a",
+    "edition": 12,
+    "date": 1643708739767,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "b798d53872e40f54e9c858f835e61bd5b8b449f3",
+    "edition": 13,
+    "date": 1643708739923,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "21e3d35718193623bcd508cfeb813ad436f53ce1",
+    "edition": 14,
+    "date": 1643708740062,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "3f62f71b6b4d3d73ae59c98793fc464d83e23b9f",
+    "edition": 15,
+    "date": 1643708740268,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "bfaef409770ed8d9d45d1b0297323c62f380b191",
+    "edition": 16,
+    "date": 1643708740402,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "4a4e39fd237c84ff2e460db6dab59a15264ed3c9",
+    "edition": 17,
+    "date": 1643708740541,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "cf5aa0ea7430b3b6d08869c984645bcfd79f0220",
+    "edition": 18,
+    "date": 1643708740685,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "496c0e0d538c0e907294af187620e4cf835c98c0",
+    "edition": 19,
+    "date": 1643708740886,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "499d0ec815d0161a2bb3a565db53c4cc3a2c484e",
+    "edition": 20,
+    "date": 1643708741100,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "0228d3d66d1711df8850661ca563ab81ab44b025",
+    "edition": 21,
+    "date": 1643708741315,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "0d2bfc9f2ed18bec06c05150f82f0c64c19d04a8",
+    "edition": 22,
+    "date": 1643708741468,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "0bb7b03ea55154affcc1677d4933650b32e252b9",
+    "edition": 23,
+    "date": 1643708741685,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "fac6ead8b3c9fabe57cbaf604bbf8b37df73f956",
+    "edition": 24,
+    "date": 1643708741892,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "33f1b3590f350b99c49c1117c6927a862f417248",
+    "edition": 25,
+    "date": 1643708742104,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "cbb6550238c969ba3bb5a99976009ef93d0001ec",
+    "edition": 26,
+    "date": 1643708742325,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "2ef251332bfc99291f9289d318984e74acd6cdfb",
+    "edition": 27,
+    "date": 1643708742481,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_b"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "46aa4575541c7e0f31c0b58a525c993656fc429f",
+    "edition": 28,
+    "date": 1643708742632,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "60e1c566c25e8d0ef12936f451f893817ec92020",
+    "edition": 29,
+    "date": 1643708742838,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_b"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_a"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "a56ec3a466c0166125ad180bba661b2117f01e97",
+    "edition": 30,
+    "date": 1643708742979,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_a"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "af3677217bc775b65c47021482ea74c0e0f94a96",
+    "edition": 31,
+    "date": 1643708743123,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_a"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "a693045b7383927970d8cf28d54d0d9403853b01",
+    "edition": 32,
+    "date": 1643708743278,
+    "attributes": [
+      {
+        "trait_type": "0_BG",
+        "value": "Layer 0_a"
+      },
+      {
+        "trait_type": "1_Body",
+        "value": "Layer 1_a"
+      },
+      {
+        "trait_type": "2_Dress",
+        "value": "Layer 2_b"
+      },
+      {
+        "trait_type": "3_Mouthassets",
+        "value": "Layer 3_b"
+      },
+      {
+        "trait_type": "4_Head",
+        "value": "Layer 4_a"
+      },
+      {
+        "trait_type": "5_Eyewear",
+        "value": "Layer 5_b"
+      },
+      {
+        "trait_type": "6_HeadGear",
+        "value": "Layer 6_a"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
