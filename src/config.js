@@ -34,8 +34,8 @@ const layerConfigurations = [
         "displayName": "1_Base"
       }
     },
-    { name: "2_Dress", options: {
-      "displayName": "2_Dress"
+    { name: "2_dress", options: {
+      "displayName": "2_dress"
     }
    },
    { name: "3_Headgear", options: {

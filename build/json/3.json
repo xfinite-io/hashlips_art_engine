@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "caa0823145bf561bf26af69d3e55f83753fe1e55",
+  "edition": 3,
+  "date": 1644403630878,
+  "attributes": [
+    {
+      "trait_type": "0_BG",
+      "value": "layer0_a"
+    },
+    {
+      "trait_type": "1_Base",
+      "value": "layer1_a"
+    },
+    {
+      "trait_type": "2_dress",
+      "value": "layer2_a"
+    },
+    {
+      "trait_type": "3_Headgear",
+      "value": "layer3_b"
+    },
+    {
+      "trait_type": "4_Mouthasset",
+      "value": "layer4_b"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
