@@ -30,8 +30,8 @@ const layerConfigurations = [
         "displayName": "0_BG"
       }
      },
-      { name: "1_BASE" ,options: {
-        "displayName": "1_BASE"
+      { name: "1_Base" ,options: {
+        "displayName": "1_Base"
       }
     },
     { name: "2_Dress", options: {
