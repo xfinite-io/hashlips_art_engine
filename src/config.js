@@ -24,26 +24,26 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 8,
+    growEditionSizeTo: 16,
     layersOrder: [
       { name: "0_BG" , options: {
         "displayName": "0_BG"
       }
      },
-      { name: "1_Base" ,options: {
-        "displayName": "1_Base"
+      { name: "1_BASE" ,options: {
+        "displayName": "1_BASE"
       }
     },
-    { name: "2_dress", options: {
-      "displayName": "2_dress"
+    { name: "2_Dress", options: {
+      "displayName": "2_Dress"
     }
    },
    { name: "3_Headgear", options: {
     "displayName": "3_Headgear"
     }
     },
-    { name: "4_eyewear",  options: {
-        "displayName": "4_eyewear"
+    { name: "4_Mouthasset",  options: {
+        "displayName": "4_Mouthasset"
       }
     },
     ],
