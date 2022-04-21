@@ -24,28 +24,34 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 16,
+    growEditionSizeTo: 10000,
     layersOrder: [
-      { name: "0_BG" , options: {
-        "displayName": "0_BG"
+      { name: "Layer0_BG" , options: {
+        "displayName": "Layer0_BG",
+        bypassDNA: false
       }
      },
-      { name: "1_Base" ,options: {
-        "displayName": "1_Base"
+      { name: "Layer1_BASE" ,options: {
+        "displayName": "Layer1_BASE"
       }
     },
-    { name: "2_dress", options: {
-      "displayName": "2_dress"
+    { name: "Layer2_Dress", options: {
+      "displayName": "Layer2_Dress"
     }
    },
-   { name: "3_Headgear", options: {
-    "displayName": "3_Headgear"
+   { name: "Layer3_Headgear", options: {
+    "displayName": "Layer3_Headgear"
     }
     },
-    { name: "4_Mouthasset",  options: {
-        "displayName": "4_Mouthasset"
+    { name: "Layer4_Mouthasset",  options: {
+        "displayName": "Layer4_Mouthasset"
       }
     },
+    {
+      name: "Layer5_FRAME", options:{
+        "displayName": "Layer5_FRAME"
+      }
+    }
     ],
   },
 ];
