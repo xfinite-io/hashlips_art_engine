@@ -52,7 +52,7 @@ const layerConfigurations = [
         "displayName": "Layer5_FRAME"
       }
     }
-    ],
+    ]
   },
 ];
 
@@ -61,8 +61,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 1024,
+  height: 1024,
   smoothing: false,
 };
 
