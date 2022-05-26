@@ -1,7 +1,7 @@
 const fs = require('fs');
 const resizeImg = require('resize-img');
-const dir = "./thumbnail";
-const outputDir = "./build/output";
+const dir = "../thumbnail";
+const outputDir = "./build/images";
 const requiredHeight = 128;
 const requiredWidth = 128;
 
