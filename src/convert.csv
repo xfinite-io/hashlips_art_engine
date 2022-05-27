@@ -1,0 +1,49 @@
+const parse =  require( 'csv-parse' );
+const fs = require('fs');
+const dir = './metadata.json';
+const resolve = require('path').resolve
+const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+const csvFile = './csvmeta.csv';
+let headers = ['name', 'description', 'image', 'dna', 'edition_number','date','Layer0_BG','Layer1_BASE','Layer2_Dress','Layer3_Headgear','Layer4_Mouthasset','Layer5_FRAME'];
+let headerArr = [];
+headers.map( header => {
+    headerArr.push({id: header, title: header})
+})
+const csvWriter = createCsvWriter({
+    path: resolve(csvFile),
+    header: headerArr
+});
+//function to convert
+async function convert(){
+    let rawdata = fs.readFileSync(dir);
+    const csvArr = [];
+    let json = JSON.parse(rawdata);
+    for( obj of json ){
+        const csvData = {};
+        csvData.name = obj.name;
+        csvData.description = obj.description;
+        csvData.image = obj.image;
+        csvData.edition = obj.edition;
+        csvData.date = obj.date;
+        const attributes = obj.attributes;
+        for( let i=0;i<attributes.length;i++ ){
+            csvData[attributes[i].trait_type] = attributes[i].value; 
+        }
+        csvArr.push( csvData);
+    }
+    csvWriter
+    .writeRecords(csvArr)
+    .then(()=> console.log('The CSV file was written successfully'))
+    .catch((error) => console.log( error ))
+}
+
+
+(() => {
+convert()
+    .then(response => {
+        console.log( response );
+    })
+    .catch( error => {
+        console.log( error );
+    })
+})()
